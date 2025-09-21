@@ -3,8 +3,11 @@ import React from 'react'
 const App = () => {
   return (
     <>
+    <div className='box'>
+      <button>deploy</button>
+    </div>
     
-    <h1>bot</h1></>
+    </>
   )
 }
 
